@@ -12,10 +12,10 @@ https://github.com/rayy2002/ESP32-Wireless-Gamepad/assets/88958861/dc8f6cfa-bd6c
 
 
 ##  Circuit Design
+will upload once the project is completed
 
-Insert gif or link to demo
+
 ## Required Library
-
 https://github.com/lemmingDev/ESP32-BLE-Gamepad.git
 
 
